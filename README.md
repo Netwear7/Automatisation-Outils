@@ -8,9 +8,8 @@ Comment crée un fichier Readme.md avec mise en forme:
 
 
 #### Pour chaque dossier:
-```
 * Readme.md
 * Informations (Documentation,...) -- très court et simple
 * Avantages/Inconvenients
 * ... à définir
-```
+
