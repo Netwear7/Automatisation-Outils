@@ -10,3 +10,4 @@ Dernière version : 9.2 (27 avril 2016).
 
 ## Sources
 [Tosca - tricentis](https://www.tricentis.com/products/automate-continuous-testing-tosca/)
+[Wikipedia](https://fr.wikipedia.org/wiki/Tosca_(logiciel))
