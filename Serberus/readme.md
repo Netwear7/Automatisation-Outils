@@ -5,4 +5,5 @@
 ## Avantages/Inconvénients
 à remplir
 ## Sources
-à remplir
+[Documentation]https://docs.python-cerberus.org/en/stable/
+[Repository github]https://github.com/pyeve/cerberus
