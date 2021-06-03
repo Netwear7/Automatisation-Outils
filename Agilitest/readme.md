@@ -1,7 +1,14 @@
 # Agilitest
 
 ## Informations
-Soluction d'automatisation des tests fonctionnels sur des technologies web, windows desktop, terminaux mobiles et webservices.
+Solution d'automatisation des tests fonctionnels.
+
+Agilitest propose :
+* Automatisation Multicanale
+* Automatisation Web
+* Automatisation Desktop
+* Automatisation sur Terminaux Mobiles
+
 
 ## Avantages/Inconvénients
 
