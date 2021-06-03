@@ -5,4 +5,5 @@
 ## Avantages/Inconvénients
 à remplir
 ## Sources
-à remplir
+* [Documentation officielle FR](https://www.selenium.dev/documentation/fr/)
+* [GitHub Selenium](https://github.com/SeleniumHQ/selenium)
