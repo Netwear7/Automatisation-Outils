@@ -5,4 +5,4 @@
 ## Avantages/Inconvénients
 à remplir
 ## Sources
-à remplir
+[Documentation en anglais] (https://appium.io/docs/en/about-appium/intro/)
