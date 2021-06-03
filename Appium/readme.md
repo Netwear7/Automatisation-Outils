@@ -1,8 +1,12 @@
 # Appium
 
 ## Informations
-à remplir
+
+Automation for iOS, Android, and Windows Apps.
+
 ## Avantages/Inconvénients
-à remplir
+
+
 ## Sources
-[Documentation en anglais](https://appium.io/docs/en/about-appium/intro/)
+[Documentation officielle en anglais](https://appium.io/docs/en/about-appium/intro/)
+[GitHub Appium](https://github.com/appium/appium) 
