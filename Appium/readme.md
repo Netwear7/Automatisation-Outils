@@ -1,8 +1,10 @@
 # Appium
 
 ## Informations
-
-Automation for iOS, Android, and Windows Apps.
+* Dernière version v1.21.0 (2 mai 2021)
+* 
+* Appium est un outil d'automatisation open-source des tests sur android, iOS, windows 10 et Firefox OS.
+* 
 
 ## Avantages/Inconvénients
 
