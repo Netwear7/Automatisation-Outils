@@ -1,7 +1,7 @@
 # Serberus
 
 ## Informations
-à remplir
+* Cerberus is a lightweight and extensible data validation library for Python
 ## Avantages/Inconvénients
 à remplir
 ## Sources
