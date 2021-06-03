@@ -8,5 +8,5 @@ Automation for iOS, Android, and Windows Apps.
 
 
 ## Sources
-[Documentation officielle en anglais](https://appium.io/docs/en/about-appium/intro/)
-[GitHub Appium](https://github.com/appium/appium) 
+* [Documentation officielle en anglais](https://appium.io/docs/en/about-appium/intro/)
+* [GitHub Appium](https://github.com/appium/appium) 
