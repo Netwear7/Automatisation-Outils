@@ -14,4 +14,4 @@ Cerberus fournit les outils de validation pour résoudre ces problèmes en Pytho
 ## Sources
 * [Documentation](https://docs.python-cerberus.org/en/stable/)
 * [Repository github](https://github.com/pyeve/cerberus)
-* [Source avantages/inconvénients](https://medium.com/avmconsulting-blog/validating-python-data-with-cerberus-374447bd3cbe)
+* [Source informations](https://medium.com/avmconsulting-blog/validating-python-data-with-cerberus-374447bd3cbe)
