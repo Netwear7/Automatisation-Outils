@@ -17,5 +17,5 @@ TOSCA est une boîte à outil pour la gestion, la conception, l’exécution et 
 à remplir
 
 ## Sources
-[Tosca - tricentis](https://www.tricentis.com/products/automate-continuous-testing-tosca/)
-[Wikipedia](https://fr.wikipedia.org/wiki/Tosca_(logiciel))
+* [Tosca - tricentis](https://www.tricentis.com/products/automate-continuous-testing-tosca/)
+* [Wikipedia](https://fr.wikipedia.org/wiki/Tosca_(logiciel))
